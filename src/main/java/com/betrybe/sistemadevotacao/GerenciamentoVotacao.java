@@ -59,7 +59,7 @@ public class GerenciamentoVotacao implements GerenciamentoVotacaoInterface {
       String nome = candidata.getNome();
       int votos = candidata.getVotos();
       float percentage = (float) candidata.getVotos() / this.cpfsComputados.size();
-      int mathRoundPercentage = Math.round(percentage) * 100;
+      int mathRoundPercentage = Math.round(percentage * 100);
       System.out.println("Nome: " + nome + " - " + votos + " votos ( "
               + mathRoundPercentage + "% )");
     }
