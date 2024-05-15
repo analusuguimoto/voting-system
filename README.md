@@ -1,10 +1,10 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Sistema de votação 🗳️
+O objetivo deste projeto foi praticar a lógica de programação em um contexto de programação orientada a objetos (POO) e entender como esses conceitos permitem que escrevamos códigos mais claros, flexíveis e fáceis de manter.
+
+## Desenvolvimento
+Foi desenvolvido um sistema de votação eletrônico capaz de cadastrar todas as pessoas eleitoras e candidatas, e coordenar todo o processo de votação. É possível verificar os resultados da eleição a qualquer momento.
+Foram seguidas 4 etapas essenciais:
+- 1 - Cadastrar pessoas candidatas
+- 2 - Cadastrar pessoas eleitoras
+- 3 - Iniciar processo votação
+- 4 - Apresentar os resultados da eleição
