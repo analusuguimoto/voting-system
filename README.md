@@ -3,6 +3,7 @@ O objetivo deste projeto foi praticar a lógica de programação em um contexto 
 
 ## Desenvolvimento
 Foi desenvolvido um sistema de votação eletrônico capaz de cadastrar todas as pessoas eleitoras e candidatas, e coordenar todo o processo de votação. É possível verificar os resultados da eleição a qualquer momento.
+
 Foram seguidas 4 etapas essenciais:
 - 1 - Cadastrar pessoas candidatas
 - 2 - Cadastrar pessoas eleitoras
